@@ -10,14 +10,6 @@ related_publications: true
 
 The goal of the project is to architect novel carbon heterostructures, by an innovative hybrid synthesis method, involving additive manufactury and a plasma-based functionalization, for highly efficient electrodes able to degrade persistent organic pollutants into harmless ones. Moreover, secondary waste materials, such as sewage sludge ash and coal fly ash, will be employed as a valuable filler and catalysts for the electrode synthesis process, by incorporating them into polyacrylonitrile (PAN) matrices through a hybrid synthesis method.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,7 +26,7 @@ To give your project a background in the portfolio page, just add the img tag to
     The project involves CVD simulation, synthesis and application of tailored electrodes for the degradation on persistent organic pollutants.
 </div>
 
-The research will consist of four main tasks: firstly, the electrode shape will be designed and optimized using
+The research consists of four main tasks: firstly, the electrode shape will be designed and optimized using
 computational fluid dynamics (CFD) simulation. Secondly, by using a novel approach, combining additive
 manufacturing with a controlled phase-inversion method and chemical vapour deposition, the electrodes will
 be manufactured. Moreover, for the first time, secondary waste materials will be used for electrode synthesis,
