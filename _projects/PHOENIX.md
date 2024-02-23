@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Phoenix - OPUS 23
+title: Phoenix
 description:  Upcycling secondary waste materials into topologically-optimized hierarchically porous composites to tailor the electrochemical degradation pathway of persistent organic pollutants
 img: assets/img/phoenix_logo.png
 importance: 1
