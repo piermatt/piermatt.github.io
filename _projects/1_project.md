@@ -1,16 +1,14 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Phoenix - OPUS 23
+description:  Upcycling secondary waste materials into topologically-optimized hierarchically porous composites to tailor the electrochemical degradation pathway of persistent organic pollutants
+img: assets/img/phoenix_logo.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The goal of the project is to architect novel carbon heterostructures, by an innovative hybrid synthesis method, involving additive manufactury and a plasma-based functionalization, for highly efficient electrodes able to degrade persistent organic pollutants into harmless ones. Moreover, secondary waste materials, such as sewage sludge ash and coal fly ash, will be employed as a valuable filler and catalysts for the electrode synthesis process, by incorporating them into polyacrylonitrile (PAN) matrices through a hybrid synthesis method.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
@@ -23,59 +21,40 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/simulation.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/CVD.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/electrode1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The project involves CVD simulation, synthesis and application of tailored electrodes for the degradation on persistent organic pollutants.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+
+The research will consist of four main tasks: firstly, the electrode shape will be designed and optimized using
+computational fluid dynamics (CFD) simulation. Secondly, by using a novel approach, combining additive
+manufacturing with a controlled phase-inversion method and chemical vapour deposition, the electrodes will
+be manufactured. Moreover, for the first time, secondary waste materials will be used for electrode synthesis,
+to divert them from landfills, in a circular economy vision. Thirdly, the novel architecture materials will be
+characterized by different techniques. Fourthly, the electrodes will be tested to degrade POPs. In particular,
+different tools will be used to understand how to optimize all the material features to better tailor the desired
+process. Multivariate data analysis will be employed for structure-property relationship mining. CFD
+simulation will be also employed to support the experimental results. Process parameters will be optimized by
+a systematic application of experimental design (DOE) using the Taguchi approach.
+Expected results will include the development of a novel synthesis method and a set of tools to design more
+effective and efficient carbon-based electrodes for the degradation of emerging pollutants. This project will be
+beneficial to fundamental science in deeply understanding the relationship between electrode morphology,
+composition and catalysed reactions. Meanwhile, the applications of hierarchically porous carbon electrodes
+found application also in other tremendously important and topical sectors, such as energy storage and
+conversion and desalination devices.
+
+
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    This project was funded by the Polish National Science Centre, under the funding scheme OPUS 23 (2022/45/B/ST8/02847). Amount awarded: 1 438 746 PLN. Project start/end date : 2023-01-16 / 2026-01-15.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
