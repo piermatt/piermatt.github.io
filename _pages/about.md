@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 
 Mattia Pierpaoli is an enthusiastic researcher with main interests and expertise in carbon nanomaterials for environmental applications, focusing on water pollutant sensing and remediation. 
 
-Now, he is probably in the Lab working on <a href='https://piermatt.github.io/projects/PHOENIX/'>novel sustainable electrodes</a> to clean water or growing some  <a href='https://piermatt.github.io/projects/argentum/'>fancy nanostructure</a> by MPCVD. He currently holds the position of Associate Professor at the Gdansk University of Technology (Poland), Faculty of Electronics, Telecommunications and Informatics.
+Now, he is probably in the Lab working on <a href='https://piermatt.github.io/projects/PHOENIX/'>novel sustainable electrodes</a> to clean water or growing some  <a href='https://piermatt.github.io/projects/argentum/'>fancy nanostructure</a> by MPCVD for advanced sensing. He currently holds the position of Associate Professor at the Gdansk University of Technology (Poland), Faculty of Electronics, Telecommunications and Informatics.
