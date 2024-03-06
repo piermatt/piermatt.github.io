@@ -6,7 +6,7 @@ img: assets/img/phoenix_logo.png
 importance: 1
 category: work
 related_publications: true
----
+--- 
 
 The goal of the project is to architect novel carbon heterostructures, by an innovative hybrid synthesis method, involving additive manufactury and a plasma-based functionalization, for highly efficient electrodes able to degrade persistent organic pollutants into harmless ones. Moreover, secondary waste materials, such as sewage sludge ash and coal fly ash, will be employed as a valuable filler and catalysts for the electrode synthesis process, by incorporating them into polyacrylonitrile (PAN) matrices through a hybrid synthesis method.
 
