@@ -474,6 +474,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-nobelium",
+          title: 'NOBELIUM',
+          description: "Innovative carbon-based nanomaterials for their application in industry and medicine as sensing devices",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/NOBELIUM/";
+            },},{id: "projects-phoenix",
+          title: 'Phoenix',
+          description: "Upcycling secondary waste materials into topologically-optimized hierarchically porous composites to tailor the electrochemical degradation pathway of persistent organic pollutants",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PHOENIX/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ULAM/";
             },},{
         id: 'social-email',
         title: 'email',
