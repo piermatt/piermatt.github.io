@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NAWA Ulam
-description: Doped-Carbon Nanowalls: Tailoring the Electronic Properties for Advanced Sensing and Electrochemical Processes
+description: Doped-Carbon Nanowalls; Tailoring the Electronic Properties for Advanced Sensing and Electrochemical Processes
 img: assets/img/nawa.jpg
 importance: 3
 category: work
