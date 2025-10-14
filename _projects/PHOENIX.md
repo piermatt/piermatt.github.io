@@ -43,9 +43,17 @@ composition and catalysed reactions. Meanwhile, the applications of hierarchical
 found application also in other tremendously important and topical sectors, such as energy storage and
 conversion and desalination devices.
 
+Current findings:
+{% cite lepek2025closed %} Upcycles sewage sludge ash (SSA) into sp2-C-rich carbon electrodes. Uses 14C-labeling to track mineralization; found mineralization to 14CO2 for BPA, carbamazepine, triclosan, diclofenac, not for PFOA.  
+{% cite pierpaoli2025optimizing %} CFD optimizes TPMS geometries for efficient mass transport, resulting in up to 6.5-fold faster degradation rates for β-blockers (atenolol, metoprolol, propranolol).
+{% cite glowacki2024ashes %} Develops PHN electrodes by upcycling diverse SWMs as self-catalysts during MPECVD and measure electroactivity.
+{% cite lepek2025electrochemical %} Examines the critical pH effect on Triclosan (TCS) EO. Acidic conditions promote complete degradation, while alkaline conditions form stable, toxic dioxins.
+{% cite kaczmarzyk20253d %} How defects, heteroatoms and functional groups in CNW affets oxidation of glyphosate and its metabolites .  
+{% cite pierpaoli2025optimizing %} Novel EO approach for PFOA in leachate using cost-effective CCFE.
 
 <div class="caption">
-    This project was funded by the Polish National Science Centre, under the funding scheme OPUS 23 (2022/45/B/ST8/02847). Amount awarded: 1 438 746 PLN. Project start/end date : 2023-01-16 / 2026-01-15.
+    This project was funded by the Polish National Science Centre, under the funding scheme OPUS 23 (2022/45/B/ST8/02847). 
+	Amount awarded: 1 438 746 PLN. Project start/end date : 2023-01-16 / 2026-06-15.
 </div>
 
 
