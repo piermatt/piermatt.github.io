@@ -62,7 +62,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/HYDRA/";
             },},{id: "projects-nobelium",
-          title: 'NOBELIUM',
+          title: 'Nobelium',
           description: "Innovative carbon-based nanomaterials for their application in industry and medicine as sensing devices",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NOBELIUM/";
