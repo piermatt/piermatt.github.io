@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Materials for courses.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -56,6 +56,26 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "projects-hydra",
+          title: 'HYDRA',
+          description: "Hybrid diamond-driven dark fermentation for bioelectrochemical hydrogen production",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/HYDRA/";
+            },},{id: "projects-nobelium",
+          title: 'NOBELIUM',
+          description: "Innovative carbon-based nanomaterials for their application in industry and medicine as sensing devices",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/NOBELIUM/";
+            },},{id: "projects-phoenix",
+          title: 'Phoenix',
+          description: "Upcycling secondary waste materials into topologically-optimized hierarchically porous composites to tailor the electrochemical degradation pathway of persistent organic pollutants",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PHOENIX/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ULAM/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
