@@ -2,7 +2,7 @@
 layout: page
 title: NOBELIUM
 description: Innovative carbon-based nanomaterials for their application in industry and medicine as sensing devices
-img: assets/img/NOBELIUM.jpg
+img: assets/img/nobelium.jpg
 importance: 4
 category: work
 giscus_comments: true
