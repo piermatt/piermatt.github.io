@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-Part of subtitle: <a href='https://www.diamondized.eu/'>Diamondized</a> Research group @ <a href='https://pg.edu.pl/en'>Gdansk Tech</a>, Poland.
+subtitle: <a href='https://www.diamondized.eu/'>Diamondized</a> @ <a href='https://pg.edu.pl/en'>Gdańsk Tech</a>, Poland.
 
 profile:
   align: right
@@ -16,5 +16,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Growing Carbon allotropes by Microwave Plasma-Enhanced Chemical Vapor Deposition for clean water and sensing.
-He currently holds the position of Associate Professor at the Gdansk University of Technology (Poland), Faculty of Electronics, Telecommunications and Informatics.
+My research explores CVD-grown carbon in its many identities — from diamond to nanowall — to tailor functional materials for tangible applications. 
+
