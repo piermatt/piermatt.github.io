@@ -57,9 +57,9 @@ ninja.data = [{
           description: "Upcycling secondary waste materials into topologically-optimized hierarchically porous composites to tailor the electrochemical degradation pathway of persistent organic pollutants",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PHOENIX/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-nawa-ulam",
+          title: 'NAWA Ulam',
+          description: "Doped-Carbon Nanowalls; Tailoring the Electronic Properties for Advanced Sensing and Electrochemical Processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ULAM/";
             },},{
