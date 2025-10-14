@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-My research explores CVD-grown carbon nanostructures </tr> — from diamond to nanowall — </tr> to tailor functional materials for tangible applications. 
+My research explores CVD-grown carbon nanostructures to tailor functional materials for tangible applications. 
 
-at the Department of optoelectronics at the Gdańsk University of Technology.
-
+“It’s not easy being green.”
+— Kermit the Frog
