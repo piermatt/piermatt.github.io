@@ -5,7 +5,7 @@ description: Doped-Carbon Nanowalls: Tailoring the Electronic Properties for Adv
 img: assets/img/nawa.jpg
 importance: 3
 category: work
-giscus_comments: false
----
+related_publications: true
+--- 
 
 The objective of the current proposal is to grow, investigate and use novel three-dimensional carbon nanomaterials, such as carbon nanowalls (CNWs), on a transparent substrate, for sensing applications and environmental remediation.
