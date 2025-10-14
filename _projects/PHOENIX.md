@@ -43,6 +43,15 @@ composition and catalysed reactions. Meanwhile, the applications of hierarchical
 found application also in other tremendously important and topical sectors, such as energy storage and
 conversion and desalination devices.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/teamphoenix.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The Phoenix team: from left, Iwona Kaczmarczyk-Knitter (PhD Student), Paweł Jakóbczyk (PhD), Mattia Pierpaoli (PhD), Patryk Sokołowski (PhD Student), Małgorzata Szopińska (PhD) | Photo by: Agata Cymanowska
+</div>
+
 Current findings:
 {% cite lepek2025closed %} Upcycles sewage sludge ash (SSA) into sp2-C-rich carbon electrodes. Uses 14C-labeling to track mineralization; found mineralization to 14CO2 for BPA, carbamazepine, triclosan, diclofenac, not for PFOA.  
 {% cite pierpaoli2025optimizing %} CFD optimizes TPMS geometries for efficient mass transport, resulting in up to 6.5-fold faster degradation rates for β-blockers (atenolol, metoprolol, propranolol).
