@@ -53,12 +53,13 @@ conversion and desalination devices.
 </div>
 
 Current findings:
-{% cite lepek2025closed %} Upcycles sewage sludge ash (SSA) into sp2-C-rich carbon electrodes. Uses 14C-labeling to track mineralization; found mineralization to 14CO2 for BPA, carbamazepine, triclosan, diclofenac, not for PFOA.  
-{% cite pierpaoli2025optimizing %} CFD optimizes TPMS geometries for efficient mass transport, resulting in up to 6.5-fold faster degradation rates for β-blockers (atenolol, metoprolol, propranolol).
-{% cite glowacki2024ashes %} Develops PHN electrodes by upcycling diverse SWMs as self-catalysts during MPECVD and measure electroactivity.
-{% cite lepek2025electrochemical %} Examines the critical pH effect on Triclosan (TCS) EO. Acidic conditions promote complete degradation, while alkaline conditions form stable, toxic dioxins.
-{% cite kaczmarzyk20253d %} How defects, heteroatoms and functional groups in CNW affets oxidation of glyphosate and its metabolites .  
-{% cite pierpaoli2025optimizing %} Novel EO approach for PFOA in leachate using cost-effective CCFE.
+
+{% cite pierpaoli2025optimizing %} introduces Ceramic Carbon Foam Electrodes (CCFE) as a novel, cost-effective, and efficient alternative to traditional electrodes (free from critical raw materials) for the electrochemical degradation of perfluorooctanoic acid (PFOA) in landfill leachate. 
+This focus on sustainable materials is built upon by {% cite glowacki2024ashes %}, which presents a novel upcycling strategy where various ashes and chars (Secondary Waste Materials, SWMs) are utilized directly as self-catalysts to fabricate Porous Hierarchical Nanocarbon (PHN) electrodes via MPECVD. This differs from previous catalyst-reliant methods by showing that specific inorganic components (like calcium oxosilicate) within the waste material drive the growth of carbon nanostructures.
+Direct electrochemical oxidation of glyphosate (GLY) and its metabolites was achieved using defect-rich B,N-codoped Carbon Nanowalls  {% pierpaoli2024tailoring %} . EO efficiency relies on specific B-C and B-N bonds, while the absence of pyridinic-N is crucial, as this defect type inhibits GLY adsorption due to charge repulsion.
+{% cite lepek2025closed %} applies this upcycling concept in a closed-loop strategy, transforming sewage sludge ash and biochar into electrodes for pollutant oxidation. Its primary novelty is the use of 14C-labeling to track mineralization directly (measuring 14CO₂ production), providing definitive mechanistic insight often obscured by adsorption phenomena in previous EO studies.
+{% cite kaczmarzyk20253d %} demonstrates a sophisticated manufacturing approach, integrating 3D printing, phase inversion, and MPECVD to create B,N-doped carbon scaffolds with hierarchical porosity. It leverages CFD simulations and topology optimization to control micro- and nanoscale precision, enhancing mass transport for superior degradation rates of β-blockers in a scalable, metal-catalyst-free system.
+{% cite lepek2025electrochemical %} contributes fundamental mechanistic insight, using a ceramic-carbon anode in a flow-through reactor to highlight the critical role of pH in Triclosan (TCS) degradation. It found that while acidic conditions lead to complete, safe TCS degradation, alkaline conditions result in the unexpected formation of toxic dioxin byproducts, a key mechanistic difference from previous observations.
 
 <div class="caption">
     This project was funded by the Polish National Science Centre, under the funding scheme OPUS 23 (2022/45/B/ST8/02847). 
