@@ -17,7 +17,8 @@ Within the project, diamond-based electrodes will be optimized to obtain the des
 
 
 <div class="caption">
-    This project was funded by the Polish National Science Centre, under the funding scheme SONATA BIS 14 (2024/54/E/ST8/00321). Amount awarded: 1 980 548 PLN. Project start/end date : 2025-10-01 / 2028-01-15.
+    This project was funded by the Polish National Science Centre, under the funding scheme SONATA BIS 14 (2024/54/E/ST8/00321). 
+    Amount awarded: 1 980 548 PLN. Project start/end date : 2025-10-01 / 2028-01-15.
 </div>
 
 
