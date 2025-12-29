@@ -8,10 +8,8 @@ category: work
 related_publications: true
 --- 
 
-The goal of the project is to architect novel carbon heterostructures, by an innovative hybrid synthesis method, involving additive manufactury and a plasma-based functionalization, for highly efficient electrodes able to degrade persistent organic pollutants into harmless ones. Moreover, secondary waste materials, such as sewage sludge ash and coal fly ash, will be employed as a valuable filler and catalysts for the electrode synthesis process, by incorporating them into polyacrylonitrile (PAN) matrices through a hybrid synthesis method.
+This project pioneers a hybrid system that merges electrochemical wastewater treatment with dark fermentation to generate clean biohydrogen — a sustainable energy carrier. By using biocompatible diamond-based electrodes optimized for high efficiency and low respiratory inhibition, pollutants are electrochemically oxidized into more biodegradable forms, boosting bacterial hydrogen production.
 
-<div class="caption">
-This project pioneers a hybrid system that merges electrochemical wastewater treatment with dark fermentation to generate clean biohydrogen — a sustainable energy carrier. By using biocompatible diamond-based electrodes optimized for high efficiency and low respiratory inhibition, pollutants are electrochemically oxidized into more biodegradable forms, boosting bacterial hydrogen production.</div>
 
 The aim of this project is to combine electrochemical wastewater treatment with dark fermentation to produce hydrogen, which can then be used as an efficient energy storage medium. 
 The bioelectrochemical systems used in the project will utilize both electrochemical reactions and biological processes, leading to effective degradation of environmental pollutants and biomass, producing biohydrogen. This innovative solution is made possible by the use of electrodes based on highly biocompatible diamond material, which is also characterized by low respiratory inhibition. 
