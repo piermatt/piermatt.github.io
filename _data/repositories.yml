@@ -1,6 +1,8 @@
 repo_description_lines_max: 2
 
 github_repos:
-  - piermatt/openspinnr
-  - piermatt/wetspinnr
+- piermatt/Qmatt
+- piermatt/uPOT
+- piermatt/openspinnr
+- piermatt/wetspinnr
 
